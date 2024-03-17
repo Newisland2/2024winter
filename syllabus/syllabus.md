@@ -5,43 +5,7 @@ title: Biostat 203B
 
 # Syllabus
 
-## Lecture
 
-- **Lec 1** schedule: 
-
-Tue (lecture) 3pm-4:50pm @ CHS 33-105A\
-Thu (lecture and lab) 3pm-4:50pm @ CHS 33-105A
-
-- [**Lec 80 (MDSH)** schedule](https://ucla-biostat-203b.github.io/2024winter/schedule/schedule-lec80.html)
-
-## Instructor
-
-[Dr. Hua Zhou](http://hua-zhou.github.io/)\
-Office: CHS 21-254A\
-Phone: (310)794-7835\
-Email: <huazhou@ucla.edu>  
-Office hours:  
-- Lec 1: Tue, Thu 2pm-2:45pm @ CHS 21-254A  
-- Lec 80 (MDSH): The hour after each in-person and Zoom lecture     
-
-## TA team
-
-- Lec 1
-test\
-test\
-test\
-test\
-
-Tomoki Okuno <tomokiokuno0528@ucla.edu>\
-Office hours: Mon 4-5pm @ [Zoom](https://ucla.zoom.us/j/97770904876), Wed 5-6pm @ TBD. 
-
-- Lec 80 (MDSH)
-
-Jonathan Hori <jonhori@ucla.edu>\
-Office hours: Mon 5:30pm-7:30pm @ [Zoom](https://ucla.zoom.us/j/92254008592?pwd=QzdqZEJvZG1UeGxjTks5dy9ibjRVdz09).
-
-Jasen Zhang <jasenzhang@ucla.edu>\
-Office hours: Fri 1pm-3pm @ [Zoom](https://ucla.zoom.us/j/99045611288?pwd=cnJYQ1l3dlUvQm5KRFlqTzJxVHNMdz09) (Passcode: 669929).
 
 ## Course Description
 
